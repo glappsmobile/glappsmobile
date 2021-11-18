@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I talk too much
+- ⚡ Fun fact: I have 4 dogs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
