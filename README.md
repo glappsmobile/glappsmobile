@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer</h3>
 
 - 🔭 I’m currently studying at <a href="https://www.driven.com.br/">Driven Education</a>.
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Object Oriented Programming
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/His
